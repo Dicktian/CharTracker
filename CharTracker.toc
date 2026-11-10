@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: CharTracker
+## Notes: Personajes, emblemas, monedas, profesiones, tiempo jugado y raids (WotLK 3.3.5a)
+## Author: Comunaxo
+## X-Website: https://github.com/Dicktian
+## X-Copyright: © Comunaxo
+## Version: 1.3-3.3.5aa
+## SavedVariables: CharTrackerDB, EmblemTrackerDB
+
+CharTracker.lua
