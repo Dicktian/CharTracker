@@ -61,10 +61,11 @@ Incluye un botón de guía con información sobre las funciones y comandos del a
 ## Instalación
 
 1. Descarga la versión disponible desde GitHub.
-2. Extrae la carpeta `CharTracker`.
-3. Copia la carpeta en `World of Warcraft/Interface/AddOns/`.
-4. Inicia World of Warcraft 3.3.5a.
-5. Activa el addon desde la selección de personajes si fuera necesario.
+2. Extrae la carpeta `CharTracker-m`.
+3.Cambiar nombre de la carpeta `CharTracker-m` por `CharTracker`
+4. Copia la carpeta en `World of Warcraft/Interface/AddOns/`.
+6. Inicia World of Warcraft 3.3.5a.
+7. Activa el addon desde la selección de personajes si fuera necesario.
 
 ## Comandos
 
